@@ -24,4 +24,8 @@
   , "example": "./example"
   }
 , "main": "./lib/XMLHttpRequest.js"
+, "dependencies": {
+    "http-proxy-agent": "^1.0.0",
+    "https-proxy-agent": "^1.0.0"
+  }
 }
